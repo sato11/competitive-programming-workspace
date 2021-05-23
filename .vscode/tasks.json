@@ -4,7 +4,7 @@
     {
       "type": "shell",
       "label": "C/C++: g++ build active file",
-      "command": "x86_64-apple-darwin19-g++-10",
+      "command": "g++-9",
       "args": [
         "-std=c++17",
         "-g",
