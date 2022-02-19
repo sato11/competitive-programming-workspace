@@ -1,5 +1,5 @@
-# competitive-programming-workspace
-A personal workspace. Works on macOS Catalina (10.15.7).
+# cpp-sandbox
+A personal workspace. Works on macOS Monterey (12.1).
 
 ## how-to-use
 Make `.cpp` file, code, compile with a shortcut `command + shift + B` and run the executable.
