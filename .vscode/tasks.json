@@ -9,6 +9,7 @@
         "-std=c++17",
         "-g",
         "${file}",
+        "-I${workspaceRoot}/ac-library",
         "-o",
         "${fileDirname}/${fileBasenameNoExtension}.out"
       ],
